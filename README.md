@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Eliseo
+
+I trained as a biomedical engineer, computational biologist and as a doctor.
+I now head a #graph #ML group at @AstraZeneca working on speeding up drug discovery decisions
+
+Previously: @biogen @opentargets @ImperialMed @mit_hst
+
+- 🌱 I’m currently learning 🎹 piano with my daughters
+- 💬 Ask me about graph machine learning, biomedical engineering, drug discovery, engineering management
+- 😄 Pronouns: he/him
+- 👨‍💻[Projects](https://elipapa.github.io/projects) I have worked on
 
 <!--
 **elipapa/elipapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
