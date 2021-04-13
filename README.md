@@ -3,7 +3,7 @@
 I trained as a biomedical engineer, computational biologist and as a doctor.
 I now head a #graph #ML group at @AstraZeneca working on speeding up drug discovery decisions
 
-Previously: @biogen @opentargets @ImperialMed @mit_hst
+Previously: @biogen @opentargets @almlab @ImperialMed @mit_hst
 
 - 🌱 I’m currently learning 🎹 piano with my daughters
 - 💬 Ask me about graph machine learning, biomedical engineering, drug discovery, engineering management
