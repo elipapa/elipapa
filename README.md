@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Eliseo
 
 I trained as a biomedical engineer, computational biologist and as a doctor.
-I now head a #graph #ML group at @AstraZeneca working on speeding up drug discovery decisions
+I am a Research Engineering Senior Lead @deepmind
 
-Previously: @biogen @opentargets @almlab @ImperialMed @mit_hst
+Previously: #graphML and #AIEngineering @Astrazeneca, @biogen @opentargets @almlab @ImperialMed @mit_hst
 
 - 🌱 I’m currently learning 🎹 piano with my daughters
 - 💬 Ask me about graph machine learning, biomedical engineering, drug discovery, engineering management
