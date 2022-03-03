@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Eliseo
 
-I trained as a biomedical engineer, computational biologist and as a doctor.
-I am a Research Engineering Senior Lead @deepmind
+I trained as a biomedical engineer, computational biologist and as a doctor.  
+I am now a Research Engineering Senior Lead @deepmind
 
 Previously: #graphML and #AIEngineering @Astrazeneca, @biogen @opentargets @almlab @ImperialMed @mit_hst
 
